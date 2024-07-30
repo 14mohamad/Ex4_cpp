@@ -4,7 +4,8 @@
 
 #include <QMainWindow>
 
-class BaseMainWindow : public QMainWindow {
+class BaseMainWindow : public QMainWindow
+{
     Q_OBJECT
 
 public:
