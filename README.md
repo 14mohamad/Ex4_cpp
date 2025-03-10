@@ -1,6 +1,6 @@
 # Tree Container
-# 'Tree Visualization with Qt'
-# 'המחשת עצים ב-Qt'
+# ’Tree Visualization with Qt’
+# ’המחשת עצים ב-Qt’
 ## Overview
 
 This project implements a generic k-ary tree container in C++. A k-ary tree is a tree in which each node has at most k children. By default, the tree is a binary tree (k=2).
